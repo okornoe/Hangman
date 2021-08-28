@@ -1,0 +1,12 @@
+type: framework
+custom_name: Hangman
+content:
+- Hello, Hangman
+- Let’s play a game
+- Make your choice
+- Help is on the way
+- Keep trying
+- The value of life
+- Error_
+- Menu, please
+current_task: 4

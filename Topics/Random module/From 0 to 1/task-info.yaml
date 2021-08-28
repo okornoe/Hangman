@@ -1,0 +1,28 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import random
+
+
+    # work with this variable
+    n = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7029#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 10. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    -65
+    Correct output:
+    0.414743999308679
+
+    Your code output:
+    1
+  time: Fri, 27 Aug 2021 12:09:33 UTC
+record: -1
