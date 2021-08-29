@@ -1,5 +1,4 @@
 type: framework
-custom_name: Hangman
 content:
 - Hello, Hangman
 - Let’s play a game
@@ -9,4 +8,4 @@ content:
 - The value of life
 - Error_
 - Menu, please
-current_task: 4
+current_task: 5
